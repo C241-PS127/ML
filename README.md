@@ -17,7 +17,7 @@ Project Overview: This project encompasses the development and deployment of two
 
 ### Recommender System
 
-- **Purpose:** Provide personalized product recommendations based on user behavior, preferences, and purchase history.
+- **Purpose:** Provide personalized product recommendations based on queries user and preferences.
 - **Technology Stack:** Scikit-learn, Pandas, NumPy, TensorFlow
 - **Algorithms:** Content-Based Filtering
 - **Training Data:** User interaction data & product metadata.
