@@ -21,7 +21,7 @@ Project Overview: This project encompasses the development and deployment of two
 - **Technology Stack:** Scikit-learn, Pandas, NumPy, TensorFlow
 - **Algorithms:** Content-Based Filtering
 - **Training Data:** User interaction data & product metadata.
-- **Deployment:** Integrated into the Android application to display personalized recommendations on the home screen, and queries search relevant based on similar item name.
+- **Deployment:** Integrated into the Android application to display personalized recommendations on the home screen and queries search relevant with product item name.
 
 ## Dependencies
 
