@@ -1,6 +1,6 @@
 # Lokal.Ind Machine Learning Models
 
-Welcome to the official repository of the Lokal.Ind Machine Learning Models project. This repository hosts the models developed for the Lokal.Ind eCommerce Platform to enhance user experience through predictive text suggestions and personalized product recommendations.
+Welcome to the official repository of the Lokal.Ind Machine Learning Models project. This repository hosts the models developed for the Lokal.Ind E-Commerce Platform to enhance user experience through predictive text suggestions and personalized product recommendations.
 
 ## Overview
 
